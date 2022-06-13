@@ -1,0 +1,23 @@
+{
+  "result": true,
+  "statusss": 200,
+  "content": "si hay citas",
+  "responseaa": [
+    {
+      "Id": 1,
+      "Date": "09 de junio del 2022 12:36"
+    },
+    {
+      "Id": 2,
+      "Date": "16 de junio del 2022 15:48"
+    },
+    {
+      "Id": 3,
+      "Date": "16 de junio del 2022 16:10"
+    },
+    {
+      "Id": 4,
+      "Date": "Ver más citas"
+    }
+  ]
+}
